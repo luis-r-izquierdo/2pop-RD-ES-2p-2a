@@ -27587,7 +27587,7 @@ allowed to compute the rest points.\>\"", ",", "\"\<\>\""}], "]"}]}], ",",
    RowBox[{"(*", " ", 
     RowBox[{
      RowBox[{
-     "We", " ", "want", " ", "all", " ", "parameteres", " ", "to", " ", "be", 
+     "We", " ", "want", " ", "all", " ", "parameters", " ", "to", " ", "be", 
       " ", "controlled", " ", "by", " ", "Manipulate"}], ",", " ", 
      RowBox[{
      "but", " ", "we", " ", "also", " ", "want", " ", "to", " ", "customize", 
@@ -29704,7 +29704,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
      RowBox[{"as", " ", "it", " ", "is", " ", "done", " ", 
       RowBox[{"here", "."}]}]}], " ", "*)"}], "\[IndentingNewLine]", 
    "\[IndentingNewLine]", 
-   RowBox[{"(*", " ", "INTIALIZATION", " ", "*)"}], "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", "INITIALIZATION", " ", "*)"}], "\[IndentingNewLine]", 
    RowBox[{"Initialization", "\[RuleDelayed]", 
     RowBox[{"(", "\[IndentingNewLine]", 
      RowBox[{"(*", " ", "INTERFACE", " ", "*)"}], "\[IndentingNewLine]", 
@@ -30081,7 +30081,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
           "period", " ", "Tij"}], ",", "\[IndentingNewLine]", 
         RowBox[{
         "to", " ", "compute", " ", "the", " ", "expected", " ", "time", " ", 
-         "until", " ", "breaup", " ", "Lij"}], ",", " ", 
+         "until", " ", "breakup", " ", "Lij"}], ",", " ", 
         "\[IndentingNewLine]", 
         RowBox[{
          RowBox[{"and", " ", "to", " ", "compute", " ", 
@@ -30438,7 +30438,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
              "function", " ", "with", " ", "payoffs", " ", "as", " ", 
              "input"}], ",", " ", 
             RowBox[{
-            "and", " ", "we", " ", "aould", " ", "not", " ", "need", " ", 
+            "and", " ", "we", " ", "would", " ", "not", " ", "need", " ", 
              "subpop", " ", "or", " ", "payoffBimatrix"}]}], " ", "*)"}], 
           "\[IndentingNewLine]", 
           RowBox[{
@@ -31971,7 +31971,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
           RowBox[{"0", "\[IndentingNewLine]", 
            RowBox[{
            "means", " ", "an", " ", "eigenvalue", " ", "vanishes", " ", "and",
-             " ", "the", " ", "linearisation", " ", "decides", " ", 
+             " ", "the", " ", "linearization", " ", "decides", " ", 
             RowBox[{"nothing", "."}]}], "\[IndentingNewLine]", 
            RowBox[{
            "With", " ", "exact", " ", "input", " ", "those", " ", "signs", " ",
@@ -31996,7 +31996,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
           "this", " ", "is", " ", "a", " ", "statement", " ", "about", " ", 
            "the", "\[IndentingNewLine]", 
            RowBox[{
-            RowBox[{"linearisation", " ", "only"}], ",", " ", 
+            RowBox[{"linearization", " ", "only"}], ",", " ", 
             RowBox[{
             "and", " ", "it", " ", "establishes", " ", "neither", " ", 
              "stability", " ", "nor", " ", "periodic", " ", 
@@ -32175,7 +32175,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
             RowBox[{"0", ",", "x"}], "]"}], " ", "with", " ", "an", " ", 
            "inexact", " ", "x"}]}]}], "\[IndentingNewLine]", 
         RowBox[{
-         RowBox[{"is", " ", "normalised", " ", "back", " ", "to", " ", 
+         RowBox[{"is", " ", "normalized", " ", "back", " ", "to", " ", 
           RowBox[{"Complex", "[", 
            RowBox[{"0.", ",", "x"}], "]"}]}], ",", " ", 
          RowBox[{
@@ -32365,7 +32365,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
          "column", " ", "of", " ", "the", " ", "table", " ", "of", " ", 
           "isolated", " ", "rest", " ", "points", " ", "are", " ", "both", " ",
            "built", " ", "from", " ", "RestPointTag"}], ",", " ", "so"}], "\[IndentingNewLine]", 
-        RowBox[{"colour", ",", " ", "edge", ",", " ", 
+        RowBox[{"color", ",", " ", "edge", ",", " ", 
          RowBox[{
          "size", " ", "and", " ", "wording", " ", "live", " ", "in", " ", 
           "one", " ", "place", " ", "and", " ", "cannot", " ", 
