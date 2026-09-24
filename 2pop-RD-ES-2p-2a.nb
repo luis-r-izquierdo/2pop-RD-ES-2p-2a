@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   1755384,      32770]
-NotebookOptionsPosition[   1749461,      32669]
-NotebookOutlinePosition[   1750065,      32691]
-CellTagsIndexPosition[   1750022,      32688]
+NotebookDataLength[   1760691,      32855]
+NotebookOptionsPosition[   1754766,      32754]
+NotebookOutlinePosition[   1755372,      32776]
+CellTagsIndexPosition[   1755329,      32773]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -66,14 +66,29 @@ $CellContext`figure$$ = Pane[
      Column[{
        Graphics[{{{
            GraphicsComplex[CompressedData["
-1:eJx1lKFKRFEURd8YxS6KDFgEf8LBD5gycgcmWAYHg0EuxuHhH4zVYjAbrYLM
-ID7DNLFZRASD6Cc8NawbFpxw2ay2OGefuz0+HUxWqqo6+nv/OV9cDs+f6z1y
-s3918ZTvevBk0Llu8rJwt92oU3opvJpud5v8Wniadk62mrfCuTrbT+mj8PHN
-/frs/bPw4XDt+zF/FT7ojB7a9qcXeTnxg/GD8YPxg/GD8YPxg/GL5mQvJ34w
-fjB+MH4wfjB+MH7R3jwneznxg/GD8YPxg/GD8Yt65L15TvZy4gfjB+MH4wfj
-F/XaPfLePCd7OfGD8YPxg/GL7sy9do+8N8/JXk78YPxg/KK795251+6R9+Y5
-2cuJH4xf9A/57n1n7rV75L15TvZy4hf9i/6HfPe+M/faPfLePCd7OX8BOIcB
-+w==
+1:eJx12DGoFmQUh/HPCKuhwBqaGpL2IPoGIbpG0FLIVQrCyCEIGkT3WuXaUjhc
+MIgGhwa7REKbREu2FIRD9IFDSPURiRZ9glOkOPze4YF3Ojzrw3nP+z/n6XdO
+H3v3gcVicW7fYnG/Pry399iFl06+qF758ZmjH26+2MJHvnvy9NnN5cFvn/vp
++Hp5ZfATWwf+39n8MHh95+L27urq4MNHXj24Xv48+NPPb95e7q4G3/nvo+93
+NtcGH3392fOr7V8H//LGe8/vrq4PPrPv0Gff7Pw2+LkvH9m/Xv4x+Pqb1049
+ul4P/vjBvdVy98/BL1z64PCJl/8afOOt1y7ubG4M/uShpx7/6sLNwa98fev9
+1fbfg/898e3vd+/+szXz1sof5g/zh/nD/GH+MH+YP8wf5g/zh/nD/GH+MH+Y
+P8wf5m/WZ/XWyh/mD/OH+cP8Yf4wf5g/zB/mD/OH+cP8Yf4wf5g/zN/sXbbP
+6q2VP8wf5g/zh/nD/GH+MH+YP8wf5g/zh/nD/GH+MH+zOdZ32T6rt1b+MH+Y
+P8wf5g/zh/nD/GH+MH+YP8wf5g/zh/mbzf3Osb7L9lm9tfKH+cP8Yf4wf5g/
+zB/mD/OH+cP8Yf4wf5i/2T/Zud851nfZPqu3Vv4wf5g/zB/mD/OH+cP8Yf4w
+f5g/zB/mb5Yr+k927neO9V22z+qtlT/MH+YP84f5w/xh/jB/mD/MH+YP8zfL
+Yc0V/Sc79zvH+i7bZ/XWyh/mD/OH+cP8Yf4wf5g/zB/mD/M3y63NYc0V/Sc7
+9zvH+i7bZ/XWyh/mD/OH+cP8Yf4wf5g/zB/mb5bzm1ubw5or+k927neO9V22
+z+qtlT/MH+YP84f5w/xh/jB/mL/ZXtSc39zaHNZc0X+yc79zrO+yfVZvrfxh
+/jB/mD/MH+YP84f5m+2R3Yua85tbm8OaK/pPdu53jvVdts/qrZU/zB/mD/OH
++cP8Yf5me3f3yO5FzfnNrc1hzRX9Jzv3O8f6Lttn9dbKH+YP84f5w/xh/mZ3
+iu7d3SO7FzXnN7c2hzVX9J/s3O8c67tsn9VbK3+YP8wf5g/zN7vr9E7Rvbt7
+ZPei5vzm1uaw5or+k537nWN9l+2zemvlD/OH+cP8ze5gvev0TtG9u3tk96Lm
+/ObW5rDmiv6TnfudY32X7bN6a+UP84f5m90NewfrXad3iu7d3SO7FzXnN7c2
+hzVX9J/s3O8c67tsn9VbK3+Yv9mdtXfD3sF61+mdont398juRc35za3NYc0V
+/Sc79zvH+i7bZ/XWyt/sLt07a++GvYP1rtM7Rffu7pHdi5rzm1ubw5or+k92
+7neO9V22z+qt9R7ukj26
             "], {{{
                EdgeForm[], 
                Directive[
@@ -83,23 +98,86 @@ F/XaPfLePCd7OfGD8YPxg/GL7sy9do+8N8/JXk78YPxg/KK795251+6R9+Y5
                 FaceForm[]], 
                GraphicsGroup[{
                  Polygon[CompressedData["
-1:eJwNw2ebgQAAAGBnO6lklMooZJNZGSk7JUTWmbnv9/+/nfd5Xsr6Myy7zWbb
-fjo/v+yA3+4IAA4nGPD6QojvOxxye4Kwx4sEnS4IdLlhyA9EI3CQwAMghoJQ
-DAuFE3EggEaDCEkgoTgJwXgsEk0loyiVQjGaiuGZNE5kM1gsTRMkky1XuE4y
-VSyQ8RyTokpFii6X6HSlnMnWqlmGraUz1QqTq7OFYqtZKnfauXyjXiy1W/FE
-Plep8pyqHcwa2xXYeq/b4WSJ40dyqz0U2x1pWG/0e82WOOCF8UgcKotubzrp
-9WdTeaSpQncyHkpLRZLV5UBczEfjlTae6KvJdK3PF8Z2oeyM6WyzVpb7XbUm
-8NrqeFiq5n6ln476+nxaby5nY3e77vb329a4/uzNx/1wfD1P57dlHp6P48l6
-nS+/739zx0Ho
+1:eJxFmXfYlcURR9/XDiKK9N57771JRzrCR++9g/QivX3SjBgMapQYFdHYiA0V
+iRqMRqOikYgaRcVEiRKjIWLNnuc9+9w/Juvs7M7OmXuBO79UnjB30JzzkiQ5
+Fv7n/LCWCJYGY69isILBLg1WKsniFwQraRy/QrACnitt/MJglbxXKFjZYBcF
+uzhYGeP45dy7JFhlz14WrFawosGKBasarHCwy4NVMY5fPdgVwYoEq2Ycv4Z7
+Vwar6UquOsGKy3dVsPrBGgQr7/sw1DUOXz1XuBvJQL0NZcBvYd3U1dg4+Zq4
+VvCN0t5pZk/pTVPj+C3NAWtreeDrbB3U2sY9+Nq61jRWyje6+B41tjIfuToE
+q20P2nmPHneSmTc6Gsdvbo2wdTUfPZgUrH+wAcF6yAlHd/nx+/o2HD2Nw93L
+ldz9jMN0tX2kB72N4/dxr5VvtpE7z88P1kHB2ss3RB56do08+EPd485Ia+0h
+Q1v7Mcx8sA537RZshCt3RnkPpjeCPR3smWBjrRuOMXLiTwk20BrHGYdpvCt9
+mmp8cLCJ9gXWCcbxpxmHaborrHOtD6bZMlD7DONwz3TNk6ORn9Ms97gzWibq
+nmMO8s4zN9zzXUdbSwf7u8A9uBfaC1hXWwfvL5EHvsXy418nD+eWGuf7tcZ7
+1LjCPtKn5cEm6690j96s9Sw92BLsWmtZLw99Wmccf6NsMG0wjr/JPZg2u5Jr
+q/kWBftNsO3BdgRb5fsw5BuH73pXuHfJQL07ZcD/pXVT1w3GyfcL1+t8Y5l3
+dttTenOjcfw95oD1V/LAd4d1bAu21z34bnHdbGyJvV/k58Znc7P5yHWbPaUH
+t3oP/3aZeePXxvPtF98Fvgd3ygD3C8EeDPZQsAeslbrukRmmu+0F/u+sg3P7
+je82x145DgS7yV7eaxz/Pvf2+N4t1v6ENf022COyUfvDxvF/Lxv9O2gc/7Fg
++5Ls83/clVxPmu8uV1j5zO/3fRgOGYfvKVe4n5WBeg/LgP9H66auI8bJ9wdX
+evOMfeHO8/aU3jxnHP+oOWD9kzzwvW4d/P31crBH5fuz6+PG7vGNu2Tis3nR
+fOR61Z7Sg1e8h/+azLzxF+P4y8OPip3BdgQ7JgPcb9kLWP8e7CXreltmmP5q
+HP8964DpuHF68IH34Hgnyb5z9PJvxvFPuEdvPvQstf8jyWp6M9hHslH7SeP4
+n8hG/z42jn/KPf5N+NSVXP80H3z8oDodln8Fe9f3YfjMOHyfu8L9pQzU+4UM
++P+1buo6Y5x8/3Z9zzeOe+dre0pv/hPsff2z5oD1W3ng+9k6qPWce/B95/qp
+sbd9I02z96jxf+Yj1w/2lB587z38n2TmjR+N439jjbCdl2b56EHV8N+Fg10e
+7KJgX8lxQZrxw10ozd6G4+I0i8N9SZqt5L4szeIwFUyzPtKDAmkWx780zfbI
+xZvn5C6eZp8frFekGQ98RdOMh55dmWY8+MXSbI87ZYJdaO0wfGc/SpgP1pKu
+5wcr5QpfWe/BxPeIPyv8OamQZnXDUT7NOPGr+QY1VjQOUyVX+lTdeJFgVdKs
+L7BWNo5fwzhMNV1hbRCstEx104yB2msZh7u2a3E5vvR7Wsc97pSTibrrmQPu
+huaGu5ErZxu7wtrElR40dYW1hQwwNZcZv50M1NjSON+pVq70rL1xam9jj+hB
+a+P4bd0jVwfPwtTd+qirk32Bqas8cHSxd/jd3OPOuGBXB+sTrKP5uN/DfPD1
+dG0WrJcrfL1dW5ijhXx9ZaP2a8xLXf1lg2OAK70Z6EoP+nmPc4Pl5P4g4x2s
+taVvDA3WOdhVwYbJCXeee/jD3YN7hGt34/Xty0j34B4tM6yj3MMfKzOsY4z3
+th8V/bzHWx89mCgP3JNlhnWSe/izrJXapxiHdaorPZhtHI4ZwYbIPc04PZ5j
+HL65rjAt8jOmrmutG455xuGb7wr3THNT0wL3uDNBJngWmoO8i81NfIkr3PwG
+WpNkvy+Xugf3cnsB60o54dhg3dS1Wk5qWeNKn9a60o/rgk333Hr5ub/OOP4K
+3+GNjeaGdbNs9GOTe/hb3INvqyv9W2bt1J3vHtzbZIbvevfwd3gH1u3G8Xe6
+R127XOlBmmTzProAWkWlJJvH0TCYp6PmwYoWUNA4czsaRhnPoVtU9j56BjpA
+1DzKeg6NobwxNIwq3uFt5m7mczQM5vWoeVT1HHoG837UPKp7LmocxNA4aunD
+VNe86AHMtsy/Bay9fJLTOOrKV1+f+pgRo+bB2tA6mMdbJDmNo7H5muqX8WwD
+e8EsHzWPZp6DqZW54GCub+371Ng5yWkcbeRpp1/a3JxlzmDeWGAvWpsXZmbT
+qHmwtpeN3J1k7uS5yjI1t/au9ovZnVlzsnUwl/eTgXk56h+s3X2feN8kp3f0
+tO4B3ucddICoc/T2HL3oY4xaB/l+1COGWSuzf5y/B3sOJmb8qH8M8Ry9zDPW
+xRxRBxhh3kb6Xe1dX+uAZ6Tn4BulT33jkpzmMdbPgTqm2q+ocYwz3wT9Xp4d
+bS+Y9aPmMdFzME0zFxxoA9OTnAYxL8npGjPkmaXf09ycbSxDtySnm0yTGQ0g
+6iWzvT/S3FFTmes58i3wbVjRAfjOMR/xO/9162aOjtoG6yLfZE5fJd9Sz/F9
+YqZfJsNqz8GMDhA1jxWem2aOlXKu8U7UKTbJgQ6wVg7m/ahtsK6XYZMxNAxm
+2H3yrzUvbFvMC+tWfXjy9aPGkS/PNn1qZf7dYT5m8Jusm9lxV5LTOG6Q+Ub9
+FcZ3Wgf3ouax23PLzL1d1j2+AR86QdQtbjYG515jUfvY6+e63hxw3moMNub9
+qHncZgy2O5Kc5nG758bZl4XWdac9hSPqAbAxR0dt425j1Micfr9s+z0H6736
+1P2A5+BEB4iaxwHPwfOg52B4SD/qFI9ZL3P/QXke9hx8j+jvsZb7ZDtobKcc
+sO0z36P6T/gG8Sf1memZfd+Q85Ax2Pgz85R1H/YsdTCPv+DbR5Jsxol6xxH5
+n9M/YPywnNyL+sfznttv7qdlO+obMKEZRA3jRWPwoBu8lOR0kJeTnF5zSM5X
+jMHD7B/1j1eNcZa/D6L+8ZrnmKWYF3+07jftEb+n+Q3Jb03eY/6N+gfr+zIz
+a0f9g/Uta2fWf9eaPvQ+PWDuj7rIce/Tp3eMRZ3ilLUwgzObM8czk/KjCCZm
++ZOynfQNmNAEov7xseeOmSPqA+T42X6c8g6fwQnrOGrtJ+T5zDqOW8dpzzE/
+Rv3jC2PUwbz+jffPeI4azxqjd+gAXyU5feSM9aIDMOOjQVBj1CR+8jOKesc5
+e3c6yWkzn3uWWpjZ6dcnnv1W/u+9/5HvnJWN3FEX+cFzfM5fWysMzMzkZQ5n
+VmWGJS8+8zk8aAJoCvCgE3CHd4gz55OL+Zpz1FXYfPQLnSDqIqyco19oBcSo
+Gw2hsGzM68X9/vI9jvoHK+foGbN/1D9Yi/jZowMU9ftEjmJpTu8oIQPzPpoC
+PaL2gmlOBykpQ1nP8SazeDVrZfaP+gdrOWsiXtVcFT1HTTW8X8i+Rl2kkuei
+3lHDmphN6/t2Q314anku6h34/H+h/J4uYb+r+vnByUxfR556+sXdq53m9I6G
+fh7l3PvA7zifVdRBGqU5HaSxbzObt5MJHSDqH6zNrJV4W2tq6Tne7uB9esbs
+H3WRVp6jX22MUW9H7/A+s3l3e8Q831m2Tp6Dh9k/6h9dPAdDN2ONzYEf9Q7y
+Mucz447182hrHVEH6ZnmdJBe1sd8HPUP1qirMKMP9n5/z0UdpL+cfXyTXvD3
+cdRFBnoONmbzIXKgCeT5PjWOkWe4sah3DE9zGg1nK8rQ1F7kmRdmdICohYz0
+fi9zR11ktOeod7w9gocZn/mf2ZuZfJ11MI/PkoEZOuofk7yTZ3ymrFM8N9xc
+s+0dOkHURaZ6Luodc6yD2XyhdS3Wh2Oe56LegR/1uyb2FC1huqzoAAvs60L9
+0e7NT3N6x2I/5wm++az/lvBv2lCZZsiKBrDUN9AvVsmBBrDC+jbYO+6s9lzU
+QVbLzNnl9oUeR11kredg22gu6kXv2OT7aBPb5dliLOodW+z7cs9OtN4lMm8y
+L8zoHVELyff+UnNHXWSb56Legf7xf71spiQ=
                   "]]}]}, {}, {}, {}, {}}, {{
                Directive[
                 AbsoluteThickness[2.], 
                 GrayLevel[0], 
                 Thickness[Large]], 
-               
-               Line[{2, 1, 11, 21, 31, 41, 51, 61, 71, 81, 91, 92, 93, 94, 95,
-                 96, 97, 98, 99, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 9, 
-                8, 7, 6, 5, 4, 3, 2}]}}}], {}}, {{{}}, {
+               Line[CompressedData["
+1:eJwt0E1KggEUBdDP/DIrtbSCGjYrsB0U2AIEFd2AGNSkpgmVlb+lZkvQPege
+bA+6B9tBR2hw4E4e3PtOqw+l+0gQBHk2WOcjzrmiyA11hkyY8cOSXzYdnXDB
+NRXueOaFBq+88U6TFm06dOnxwSd9Bgz5YsQ3T9xSJkeWY0JWeiyYM2XMgEdq
+FLjkjEMOyJBmnz1SJEmwyw7bxNkitt5KSPT/X3+owxyq
+                "]]}}}], {}}, {{{}}, {
             GraphicsComplex[CompressedData["
 1:eJzE+nk4lP8bPoxro7QppZ0oJS2iSJsTLbRLhTaS9tKq0qoFJaJFaaUkyZot
 W9nKvu87Y8bMMMy0kBLqefX783r/8Tm+x/N7nuev65hm3Pfrvq7zOpf7SHn3
@@ -5720,7 +5798,6 @@ CXN8a9dHkFdpp4aVPwxWbaftUfhjJWuz7b4Sm9AW/E/G/14e7pnfHORrCki6
                  0.7887905896163202}}]}}, {
                Arrowheads[{{0.020000000000000014`, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.7902025479521186, 0.7902048203906833}, {
                  0.7950603508478427, 0.7950627415344335}, {0.8033384549667565,
                   0.8033410909759471}, {0.8180118600380546, 
@@ -5906,7 +5983,6 @@ CXN8a9dHkFdpp4aVPwxWbaftUfhjJWuz7b4Sm9AW/E/G/14e7pnfHORrCki6
                  0.34024517810998484`}}]}}, {
                Arrowheads[{{0.02, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.8730108178340277, 0.33824613608674575`}, {
                  0.8727640217786661, 0.33027528552761753`}, {0.87116514735169,
                   0.310550497678681}, {0.8693015801464724, 
@@ -6461,7 +6537,6 @@ CXN8a9dHkFdpp4aVPwxWbaftUfhjJWuz7b4Sm9AW/E/G/14e7pnfHORrCki6
                  0.48077797259171556`, 0.4063397063333788}}]}}, {
                Arrowheads[{{0.020000000000000004`, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.48214462467487856`, 0.40779993305672907`}, {
                  0.488570220854569, 0.41466548967544475`}, {
                  0.4978984235570298, 0.42450867299125006`}, {
@@ -6740,7 +6815,6 @@ CXN8a9dHkFdpp4aVPwxWbaftUfhjJWuz7b4Sm9AW/E/G/14e7pnfHORrCki6
                  0.5024299647812558}}]}}, {
                Arrowheads[{{0.019999999999999997`, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.9620176463101372, 0.5004322960836504}, {
                  0.962274149908713, 0.4951245000914984}, {0.9628510129325549, 
                  0.48158895279152075`}, {0.963352796373096, 
@@ -7039,6 +7113,7 @@ CXN8a9dHkFdpp4aVPwxWbaftUfhjJWuz7b4Sm9AW/E/G/14e7pnfHORrCki6
                  0.3829273564664252}}]}}, {
                Arrowheads[{{0.01999999999999999, 1.}}], {
                 GrayLevel[0.], 
+                
                 Arrow[{{0.6747751752220505, 0.3840675362184328}, {
                  0.6849584569595493, 0.3911336397303088}, {0.7012514422992888,
                   0.40019029534187295`}, {0.713270954099213, 
@@ -7570,7 +7645,6 @@ CXN8a9dHkFdpp4aVPwxWbaftUfhjJWuz7b4Sm9AW/E/G/14e7pnfHORrCki6
                  0.23165574961147087`, 0.9661311129533209}}]}}, {
                Arrowheads[{{0.02, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.22966108600932353`, 0.9659851091373822}, {
                  0.22885980612149068`, 0.9659264576830054}, {
                  0.21486387026664838`, 0.9646989724516365}, {
@@ -7866,6 +7940,7 @@ N9Cssg==
                  0.09987822989724664}}]}}, {
                Arrowheads[{{0.019999999999999997`, 1.}}], {
                 GrayLevel[0.], 
+                
                 Arrow[{{0.5292342663402553, 0.1001983435072929}, {
                  0.5256003701916342, 0.10078756973389813`}, {
                  0.5102691669916908, 0.10385926339549136`}, {
@@ -8139,6 +8214,7 @@ H4Or7j/e8AwOjprrPxJhpQlntO4/AoaMR2ty6z/LHqPi
                  0.12164087187311315`}}]}}, {
                Arrowheads[{{0.019999999999999993`, 1.}}], {
                 GrayLevel[0.], 
+                
                 Arrow[{{0.9748970058263191, 0.1196646018389975}, {
                  0.974482961557813, 0.11700077143988148`}, {
                  0.9714603564029528, 0.1025019453566349}, {0.9678900151042042,
@@ -8663,7 +8739,6 @@ KiQWwOCJ6z84/Zxdek3uP8m1wDc=
                  0.3562509715797672}}]}}, {
                Arrowheads[{{0.020000000000000004`, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.8424113944653456, 0.3542533875670317}, {
                  0.842691751726264, 0.34392136771628684`}, {
                  0.8424673191909847, 0.3323521269759106}, {0.8417054563053271,
@@ -8756,7 +8831,6 @@ KiQWwOCJ6z84/Zxdek3uP8m1wDc=
                  0.9912965367975312}}]}}, {
                Arrowheads[{{0.02, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.2786487832543455, 0.9912737811968461}, {
                  0.26280420238461577`, 0.9910562550001687}, {
                  0.24745174300624265`, 0.9908067103521223}, {
@@ -9307,7 +9381,6 @@ hK1S7D9QXJIpbD3vP2asvD+EQuw/wn7I/AI/7z93Z6ke
                  0.11088151573679074`, 0.5447595935999408}}]}}, {
                Arrowheads[{{0.02, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.11122171543540511`, 0.5427887399359}, {
                  0.11144597409235371`, 0.5414895589032884}, {
                  0.11447923773447041`, 0.5273070861187816}, {
@@ -9677,7 +9750,6 @@ hK1S7D9QXJIpbD3vP2asvD+EQuw/wn7I/AI/7z93Z6ke
                  0.45893849586423036`}}]}}, {
                Arrowheads[{{0.019999999999999993`, 1.}}], {
                 GrayLevel[0.], 
-                
                 Arrow[{{0.6117269852815835, 0.46029090503331066`}, {
                  0.6125934376974753, 0.4610861921883877}, {0.6249733931668605,
                   0.4720557485132918}, {0.637312882028528, 
@@ -9793,6 +9865,7 @@ hK1S7D9QXJIpbD3vP2asvD+EQuw/wn7I/AI/7z93Z6ke
               RGBColor[0.192, 0.48, 0.64]], {{
                Arrowheads[{{0.01999999999999999, 1.}}], {
                 GrayLevel[0], 
+                
                 Arrow[{{0.6396532992590742, 0.2615311503710924}, {
                  0.6375013755691253, 0.27551820865440874`}, {
                  0.6403771921061164, 0.2913678991739559}, {0.6478536721246548,
@@ -13273,73 +13346,73 @@ Tz+hgM0t3bqplII6fsvdz0ajqIpUULRaSsaFY0zrd6vJ+B81f+5B
         "WatermelonColors"]}}, $CellContext`lengthArrows$$ = 
     0.5, $CellContext`m$$ = 0, $CellContext`maxTimeOut$$ = 
     30, $CellContext`plotBackground$$ = True, $CellContext`rest$$ = Or[
-     And[$CellContext`B\[CapitalPi]2$737683 == 
-      1, $CellContext`B\[CapitalPi]1$737683 == 0, $CellContext`Bp1$737683 == 
-      0, $CellContext`A\[CapitalPi]2$737683 == 
-      1, $CellContext`A\[CapitalPi]1$737683 == 0, $CellContext`Ap1$737683 == 
-      0, $CellContext`Ax$737683 == 0, $CellContext`Bx$737683 == 0], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
-      1, $CellContext`B\[CapitalPi]1$737683 == 0, $CellContext`Bp1$737683 == 
-      1, $CellContext`A\[CapitalPi]2$737683 == 
-      4, $CellContext`A\[CapitalPi]1$737683 == 3, $CellContext`Ap1$737683 == 
-      0, $CellContext`Ax$737683 == 0, $CellContext`Bx$737683 == 1], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
-      4, $CellContext`B\[CapitalPi]1$737683 == 3, $CellContext`Bp1$737683 == 
-      0, $CellContext`A\[CapitalPi]2$737683 == 
-      1, $CellContext`A\[CapitalPi]1$737683 == 0, $CellContext`Ap1$737683 == 
-      1, $CellContext`Ax$737683 == 1, $CellContext`Bx$737683 == 0], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
-      4, $CellContext`B\[CapitalPi]1$737683 == 3, $CellContext`Bp1$737683 == 
-      1, $CellContext`A\[CapitalPi]2$737683 == 
-      4, $CellContext`A\[CapitalPi]1$737683 == 3, $CellContext`Ap1$737683 == 
-      1, $CellContext`Ax$737683 == 1, $CellContext`Bx$737683 == 1], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
+      1, $CellContext`B\[CapitalPi]1$389225 == 0, $CellContext`Bp1$389225 == 
+      0, $CellContext`A\[CapitalPi]2$389225 == 
+      1, $CellContext`A\[CapitalPi]1$389225 == 0, $CellContext`Ap1$389225 == 
+      0, $CellContext`Ax$389225 == 0, $CellContext`Bx$389225 == 0], 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
+      1, $CellContext`B\[CapitalPi]1$389225 == 0, $CellContext`Bp1$389225 == 
+      1, $CellContext`A\[CapitalPi]2$389225 == 
+      4, $CellContext`A\[CapitalPi]1$389225 == 3, $CellContext`Ap1$389225 == 
+      0, $CellContext`Ax$389225 == 0, $CellContext`Bx$389225 == 1], 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
+      4, $CellContext`B\[CapitalPi]1$389225 == 3, $CellContext`Bp1$389225 == 
+      0, $CellContext`A\[CapitalPi]2$389225 == 
+      1, $CellContext`A\[CapitalPi]1$389225 == 0, $CellContext`Ap1$389225 == 
+      1, $CellContext`Ax$389225 == 1, $CellContext`Bx$389225 == 0], 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
+      4, $CellContext`B\[CapitalPi]1$389225 == 3, $CellContext`Bp1$389225 == 
+      1, $CellContext`A\[CapitalPi]2$389225 == 
+      4, $CellContext`A\[CapitalPi]1$389225 == 3, $CellContext`Ap1$389225 == 
+      1, $CellContext`Ax$389225 == 1, $CellContext`Bx$389225 == 1], 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$737683 == 
+        Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$389225 == 
       Rational[1, 9] (3 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 == 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$737683 == 
-      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$737683 == 
-      Rational[1, 6] (3 - 6^Rational[1, 2]), $CellContext`Bx$737683 == 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$389225 == 
+      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$389225 == 
+      Rational[1, 6] (3 - 6^Rational[1, 2]), $CellContext`Bx$389225 == 
       Rational[1, 6] (3 - 6^Rational[1, 2])], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$737683 == 
+        Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$389225 == 
       Rational[1, 9] (3 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 == 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$737683 == 
-      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$737683 == 
-      Rational[1, 12] (6 - 6^Rational[1, 2]), $CellContext`Bx$737683 == 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$389225 == 
+      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$389225 == 
+      Rational[1, 12] (6 - 6^Rational[1, 2]), $CellContext`Bx$389225 == 
       Rational[1, 12] (6 + 6^Rational[1, 2])], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$737683 == 
+        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$389225 == 
       Rational[1, 9] (3 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 == 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$737683 == 
-      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$737683 == 
-      Rational[1, 12] (6 + 6^Rational[1, 2]), $CellContext`Bx$737683 == 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$389225 == 
+      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$389225 == 
+      Rational[1, 12] (6 + 6^Rational[1, 2]), $CellContext`Bx$389225 == 
       Rational[1, 12] (6 - 6^Rational[1, 2])], 
-     And[$CellContext`B\[CapitalPi]2$737683 == 
+     And[$CellContext`B\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$737683 == 
+        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$389225 == 
       Rational[1, 9] (3 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 == 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 == 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 == 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$737683 == 
-      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$737683 == 
-      Rational[1, 6] (3 + 6^Rational[1, 2]), $CellContext`Bx$737683 == 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 == 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$389225 == 
+      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$389225 == 
+      Rational[1, 6] (3 + 6^Rational[1, 2]), $CellContext`Bx$389225 == 
       Rational[1, 6] (3 + 
         6^Rational[1, 2])]], $CellContext`restEigen$$ = {{-1, -1}, {1, 
      1}, {-1, 1}, {-1, 
@@ -13349,125 +13422,125 @@ Tz+hgM0t3bqplII6fsvdz0ajqIpUULRaSsaFY0zrd6vJ+B81f+5B
      Complex[0, -1] 3^Rational[-1, 2], Complex[0, 1] 
       3^Rational[-1, 
          2]}}, $CellContext`restPoints$$ = \
-{{$CellContext`B\[CapitalPi]2$737683 -> 1, $CellContext`B\[CapitalPi]1$737683 -> 
-      0, $CellContext`Bp1$737683 -> 0, $CellContext`A\[CapitalPi]2$737683 -> 
-      1, $CellContext`A\[CapitalPi]1$737683 -> 0, $CellContext`Ap1$737683 -> 
-      0, $CellContext`Ax$737683 -> 0, $CellContext`Bx$737683 -> 
-      0, $CellContext`Ax2$737683 -> 1, $CellContext`Bx2$737683 -> 
-      1, $CellContext`Ap2$737683 -> 1, $CellContext`Bp2$737683 -> 
-      1}, {$CellContext`B\[CapitalPi]2$737683 -> 
-      4, $CellContext`B\[CapitalPi]1$737683 -> 3, $CellContext`Bp1$737683 -> 
-      1, $CellContext`A\[CapitalPi]2$737683 -> 
-      4, $CellContext`A\[CapitalPi]1$737683 -> 3, $CellContext`Ap1$737683 -> 
-      1, $CellContext`Ax$737683 -> 1, $CellContext`Bx$737683 -> 
-      1, $CellContext`Ax2$737683 -> 0, $CellContext`Bx2$737683 -> 
-      0, $CellContext`Ap2$737683 -> 0, $CellContext`Bp2$737683 -> 
-      0}, {$CellContext`B\[CapitalPi]2$737683 -> 
-      1, $CellContext`B\[CapitalPi]1$737683 -> 0, $CellContext`Bp1$737683 -> 
-      1, $CellContext`A\[CapitalPi]2$737683 -> 
-      4, $CellContext`A\[CapitalPi]1$737683 -> 3, $CellContext`Ap1$737683 -> 
-      0, $CellContext`Ax$737683 -> 0, $CellContext`Bx$737683 -> 
-      1, $CellContext`Ax2$737683 -> 1, $CellContext`Bx2$737683 -> 
-      0, $CellContext`Ap2$737683 -> 1, $CellContext`Bp2$737683 -> 
-      0}, {$CellContext`B\[CapitalPi]2$737683 -> 
-      4, $CellContext`B\[CapitalPi]1$737683 -> 3, $CellContext`Bp1$737683 -> 
-      0, $CellContext`A\[CapitalPi]2$737683 -> 
-      1, $CellContext`A\[CapitalPi]1$737683 -> 0, $CellContext`Ap1$737683 -> 
-      1, $CellContext`Ax$737683 -> 1, $CellContext`Bx$737683 -> 
-      0, $CellContext`Ax2$737683 -> 0, $CellContext`Bx2$737683 -> 
-      1, $CellContext`Ap2$737683 -> 0, $CellContext`Bp2$737683 -> 
-      1}, {$CellContext`B\[CapitalPi]2$737683 -> 
+{{$CellContext`B\[CapitalPi]2$389225 -> 1, $CellContext`B\[CapitalPi]1$389225 -> 
+      0, $CellContext`Bp1$389225 -> 0, $CellContext`A\[CapitalPi]2$389225 -> 
+      1, $CellContext`A\[CapitalPi]1$389225 -> 0, $CellContext`Ap1$389225 -> 
+      0, $CellContext`Ax$389225 -> 0, $CellContext`Bx$389225 -> 
+      0, $CellContext`Ax2$389225 -> 1, $CellContext`Bx2$389225 -> 
+      1, $CellContext`Ap2$389225 -> 1, $CellContext`Bp2$389225 -> 
+      1}, {$CellContext`B\[CapitalPi]2$389225 -> 
+      4, $CellContext`B\[CapitalPi]1$389225 -> 3, $CellContext`Bp1$389225 -> 
+      1, $CellContext`A\[CapitalPi]2$389225 -> 
+      4, $CellContext`A\[CapitalPi]1$389225 -> 3, $CellContext`Ap1$389225 -> 
+      1, $CellContext`Ax$389225 -> 1, $CellContext`Bx$389225 -> 
+      1, $CellContext`Ax2$389225 -> 0, $CellContext`Bx2$389225 -> 
+      0, $CellContext`Ap2$389225 -> 0, $CellContext`Bp2$389225 -> 
+      0}, {$CellContext`B\[CapitalPi]2$389225 -> 
+      1, $CellContext`B\[CapitalPi]1$389225 -> 0, $CellContext`Bp1$389225 -> 
+      1, $CellContext`A\[CapitalPi]2$389225 -> 
+      4, $CellContext`A\[CapitalPi]1$389225 -> 3, $CellContext`Ap1$389225 -> 
+      0, $CellContext`Ax$389225 -> 0, $CellContext`Bx$389225 -> 
+      1, $CellContext`Ax2$389225 -> 1, $CellContext`Bx2$389225 -> 
+      0, $CellContext`Ap2$389225 -> 1, $CellContext`Bp2$389225 -> 
+      0}, {$CellContext`B\[CapitalPi]2$389225 -> 
+      4, $CellContext`B\[CapitalPi]1$389225 -> 3, $CellContext`Bp1$389225 -> 
+      0, $CellContext`A\[CapitalPi]2$389225 -> 
+      1, $CellContext`A\[CapitalPi]1$389225 -> 0, $CellContext`Ap1$389225 -> 
+      1, $CellContext`Ax$389225 -> 1, $CellContext`Bx$389225 -> 
+      0, $CellContext`Ax2$389225 -> 0, $CellContext`Bx2$389225 -> 
+      1, $CellContext`Ap2$389225 -> 0, $CellContext`Bp2$389225 -> 
+      1}, {$CellContext`B\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$737683 -> 
+        Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$389225 -> 
       Rational[1, 9] (3 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 -> 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$737683 -> 
-      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$737683 -> 
-      Rational[1, 6] (3 - 6^Rational[1, 2]), $CellContext`Bx$737683 -> 
-      Rational[1, 6] (3 - 6^Rational[1, 2]), $CellContext`Ax2$737683 -> 
-      1 + Rational[1, 6] (-3 + 6^Rational[1, 2]), $CellContext`Bx2$737683 -> 
-      1 + Rational[1, 6] (-3 + 6^Rational[1, 2]), $CellContext`Ap2$737683 -> 
-      1 + Rational[1, 9] (-3 + 6^Rational[1, 2]), $CellContext`Bp2$737683 -> 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$389225 -> 
+      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$389225 -> 
+      Rational[1, 6] (3 - 6^Rational[1, 2]), $CellContext`Bx$389225 -> 
+      Rational[1, 6] (3 - 6^Rational[1, 2]), $CellContext`Ax2$389225 -> 
+      1 + Rational[1, 6] (-3 + 6^Rational[1, 2]), $CellContext`Bx2$389225 -> 
+      1 + Rational[1, 6] (-3 + 6^Rational[1, 2]), $CellContext`Ap2$389225 -> 
+      1 + Rational[1, 9] (-3 + 6^Rational[1, 2]), $CellContext`Bp2$389225 -> 
       1 + Rational[1, 9] (-3 + 
-         6^Rational[1, 2])}, {$CellContext`B\[CapitalPi]2$737683 -> 
+         6^Rational[1, 2])}, {$CellContext`B\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$737683 -> 
+        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$389225 -> 
       Rational[1, 9] (3 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 -> 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$737683 -> 
-      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$737683 -> 
-      Rational[1, 6] (3 + 6^Rational[1, 2]), $CellContext`Bx$737683 -> 
-      Rational[1, 6] (3 + 6^Rational[1, 2]), $CellContext`Ax2$737683 -> 
-      1 + Rational[1, 6] (-3 - 6^Rational[1, 2]), $CellContext`Bx2$737683 -> 
-      1 + Rational[1, 6] (-3 - 6^Rational[1, 2]), $CellContext`Ap2$737683 -> 
-      1 + Rational[1, 9] (-3 - 6^Rational[1, 2]), $CellContext`Bp2$737683 -> 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$389225 -> 
+      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$389225 -> 
+      Rational[1, 6] (3 + 6^Rational[1, 2]), $CellContext`Bx$389225 -> 
+      Rational[1, 6] (3 + 6^Rational[1, 2]), $CellContext`Ax2$389225 -> 
+      1 + Rational[1, 6] (-3 - 6^Rational[1, 2]), $CellContext`Bx2$389225 -> 
+      1 + Rational[1, 6] (-3 - 6^Rational[1, 2]), $CellContext`Ap2$389225 -> 
+      1 + Rational[1, 9] (-3 - 6^Rational[1, 2]), $CellContext`Bp2$389225 -> 
       1 + Rational[1, 9] (-3 - 6^
-         Rational[1, 2])}, {$CellContext`B\[CapitalPi]2$737683 -> 
+         Rational[1, 2])}, {$CellContext`B\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$737683 -> 
+        Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Bp1$389225 -> 
       Rational[1, 9] (3 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 -> 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$737683 -> 
-      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$737683 -> 
-      Rational[1, 12] (6 - 6^Rational[1, 2]), $CellContext`Bx$737683 -> 
-      Rational[1, 12] (6 + 6^Rational[1, 2]), $CellContext`Ax2$737683 -> 
-      1 + Rational[1, 12] (-6 + 6^Rational[1, 2]), $CellContext`Bx2$737683 -> 
-      1 + Rational[1, 12] (-6 - 6^Rational[1, 2]), $CellContext`Ap2$737683 -> 
-      1 + Rational[1, 9] (-3 + 6^Rational[1, 2]), $CellContext`Bp2$737683 -> 
+        6^Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Ap1$389225 -> 
+      Rational[1, 9] (3 - 6^Rational[1, 2]), $CellContext`Ax$389225 -> 
+      Rational[1, 12] (6 - 6^Rational[1, 2]), $CellContext`Bx$389225 -> 
+      Rational[1, 12] (6 + 6^Rational[1, 2]), $CellContext`Ax2$389225 -> 
+      1 + Rational[1, 12] (-6 + 6^Rational[1, 2]), $CellContext`Bx2$389225 -> 
+      1 + Rational[1, 12] (-6 - 6^Rational[1, 2]), $CellContext`Ap2$389225 -> 
+      1 + Rational[1, 9] (-3 + 6^Rational[1, 2]), $CellContext`Bp2$389225 -> 
       1 + Rational[1, 9] (-3 - 6^
-         Rational[1, 2])}, {$CellContext`B\[CapitalPi]2$737683 -> 
+         Rational[1, 2])}, {$CellContext`B\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 + 
-        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$737683 -> 
+        6^Rational[1, 2]), $CellContext`B\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 + 6^Rational[1, 2]), $CellContext`Bp1$389225 -> 
       Rational[1, 9] (3 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]2$737683 -> 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]2$389225 -> 
       Rational[1, 3] (6 - 6^
-        Rational[1, 2]), $CellContext`A\[CapitalPi]1$737683 -> 
-      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$737683 -> 
-      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$737683 -> 
-      Rational[1, 12] (6 + 6^Rational[1, 2]), $CellContext`Bx$737683 -> 
-      Rational[1, 12] (6 - 6^Rational[1, 2]), $CellContext`Ax2$737683 -> 
-      1 + Rational[1, 12] (-6 - 6^Rational[1, 2]), $CellContext`Bx2$737683 -> 
-      1 + Rational[1, 12] (-6 + 6^Rational[1, 2]), $CellContext`Ap2$737683 -> 
-      1 + Rational[1, 9] (-3 - 6^Rational[1, 2]), $CellContext`Bp2$737683 -> 
+        Rational[1, 2]), $CellContext`A\[CapitalPi]1$389225 -> 
+      Rational[1, 3] (6 - 6^Rational[1, 2]), $CellContext`Ap1$389225 -> 
+      Rational[1, 9] (3 + 6^Rational[1, 2]), $CellContext`Ax$389225 -> 
+      Rational[1, 12] (6 + 6^Rational[1, 2]), $CellContext`Bx$389225 -> 
+      Rational[1, 12] (6 - 6^Rational[1, 2]), $CellContext`Ax2$389225 -> 
+      1 + Rational[1, 12] (-6 - 6^Rational[1, 2]), $CellContext`Bx2$389225 -> 
+      1 + Rational[1, 12] (-6 + 6^Rational[1, 2]), $CellContext`Ap2$389225 -> 
+      1 + Rational[1, 9] (-3 - 6^Rational[1, 2]), $CellContext`Bp2$389225 -> 
       1 + Rational[1, 9] (-3 + 
          6^Rational[
            1, 2])}}, $CellContext`restRegions$$ = {}, \
-$CellContext`rulesForNiceVariables$$ = {$CellContext`Ax$737683 -> Text[
+$CellContext`rulesForNiceVariables$$ = {$CellContext`Ax$389225 -> Text[
        Subsuperscript[
-        Style["x", Italic], 1, "(1)"]], $CellContext`Ax2$737683 -> Text[
+        Style["x", Italic], 1, "(1)"]], $CellContext`Ax2$389225 -> Text[
        Subsuperscript[
-        Style["x", Italic], 2, "(1)"]], $CellContext`Bx$737683 -> Text[
+        Style["x", Italic], 2, "(1)"]], $CellContext`Bx$389225 -> Text[
        Subsuperscript[
-        Style["x", Italic], 1, "(2)"]], $CellContext`Bx2$737683 -> Text[
+        Style["x", Italic], 1, "(2)"]], $CellContext`Bx2$389225 -> Text[
        Subsuperscript[
-        Style["x", Italic], 2, "(2)"]], $CellContext`Ap1$737683 -> Text[
+        Style["x", Italic], 2, "(2)"]], $CellContext`Ap1$389225 -> Text[
        Subsuperscript[
-        Style["p", Italic], 1, "(1)"]], $CellContext`Ap2$737683 -> Text[
+        Style["p", Italic], 1, "(1)"]], $CellContext`Ap2$389225 -> Text[
        Subsuperscript[
-        Style["p", Italic], 2, "(1)"]], $CellContext`Bp1$737683 -> Text[
+        Style["p", Italic], 2, "(1)"]], $CellContext`Bp1$389225 -> Text[
        Subsuperscript[
-        Style["p", Italic], 1, "(2)"]], $CellContext`Bp2$737683 -> Text[
+        Style["p", Italic], 1, "(2)"]], $CellContext`Bp2$389225 -> Text[
        Subsuperscript[
-        Style["p", Italic], 2, "(2)"]], $CellContext`A\[CapitalPi]1$737683 -> 
+        Style["p", Italic], 2, "(2)"]], $CellContext`A\[CapitalPi]1$389225 -> 
      Text[
        Subsuperscript[
-        Style["F", Italic], 1, "(1)"]], $CellContext`A\[CapitalPi]2$737683 -> 
+        Style["F", Italic], 1, "(1)"]], $CellContext`A\[CapitalPi]2$389225 -> 
      Text[
        Subsuperscript[
-        Style["F", Italic], 2, "(1)"]], $CellContext`B\[CapitalPi]1$737683 -> 
+        Style["F", Italic], 2, "(1)"]], $CellContext`B\[CapitalPi]1$389225 -> 
      Text[
        Subsuperscript[
-        Style["F", Italic], 1, "(2)"]], $CellContext`B\[CapitalPi]2$737683 -> 
+        Style["F", Italic], 1, "(2)"]], $CellContext`B\[CapitalPi]2$389225 -> 
      Text[
        Subsuperscript[
         Style["F", Italic], 2, "(2)"]]}, $CellContext`strategyNames$$ = {{
@@ -16873,10 +16946,10 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlType ->
                   "C", $CellContext`As13$$ = "D", $CellContext`As14$$ = 
                   "C", $CellContext`As15$$ = "D", $CellContext`As1Name$$ = 
                   "TFT", $CellContext`update$$ = 10}, 
-                "CCDCC" :> {$CellContext`As11$$ = "C", $CellContext`As12$$ = 
+                "TFTlike" :> {$CellContext`As11$$ = "C", $CellContext`As12$$ = 
                   "C", $CellContext`As13$$ = "D", $CellContext`As14$$ = 
                   "C", $CellContext`As15$$ = "C", $CellContext`As1Name$$ = 
-                  "CCDCC", $CellContext`update$$ = 10}, 
+                  "TFTlike", $CellContext`update$$ = 10}, 
                 "DDLDC" :> {$CellContext`As11$$ = "D", $CellContext`As12$$ = 
                   "D", $CellContext`As13$$ = "L", $CellContext`As14$$ = 
                   "D", $CellContext`As15$$ = "C", $CellContext`As1Name$$ = 
@@ -16941,10 +17014,10 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlType ->
                   "C", $CellContext`As23$$ = "D", $CellContext`As24$$ = 
                   "C", $CellContext`As25$$ = "D", $CellContext`As2Name$$ = 
                   "TFT", $CellContext`update$$ = 70}, 
-                "CCDCC" :> {$CellContext`As21$$ = "C", $CellContext`As22$$ = 
+                "TFTlike" :> {$CellContext`As21$$ = "C", $CellContext`As22$$ = 
                   "C", $CellContext`As23$$ = "D", $CellContext`As24$$ = 
                   "C", $CellContext`As25$$ = "C", $CellContext`As2Name$$ = 
-                  "CCDCC", $CellContext`update$$ = 70}, 
+                  "TFTlike", $CellContext`update$$ = 70}, 
                 "DDLDC" :> {$CellContext`As21$$ = "D", $CellContext`As22$$ = 
                   "D", $CellContext`As23$$ = "L", $CellContext`As24$$ = 
                   "D", $CellContext`As25$$ = "C", $CellContext`As2Name$$ = 
@@ -17039,7 +17112,7 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlType ->
                   "C", $CellContext`Bs13$$ = "D", $CellContext`Bs14$$ = 
                   "C", $CellContext`Bs15$$ = "D", $CellContext`Bs1Name$$ = 
                   "TFT", $CellContext`update$$ = 10}, 
-                "CCDCC" :> {$CellContext`Bs11$$ = "C", $CellContext`Bs12$$ = 
+                "TFTlike" :> {$CellContext`Bs11$$ = "C", $CellContext`Bs12$$ = 
                   "C", $CellContext`Bs13$$ = "D", $CellContext`Bs14$$ = 
                   "C", $CellContext`Bs15$$ = "C", $CellContext`Bs1Name$$ = 
                   "TFTlike", $CellContext`update$$ = 10}, 
@@ -17107,7 +17180,7 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlType ->
                   "C", $CellContext`Bs23$$ = "D", $CellContext`Bs24$$ = 
                   "C", $CellContext`Bs25$$ = "D", $CellContext`Bs2Name$$ = 
                   "TFT", $CellContext`update$$ = 70}, 
-                "CCDCC" :> {$CellContext`Bs21$$ = "C", $CellContext`Bs22$$ = 
+                "TFTlike" :> {$CellContext`Bs21$$ = "C", $CellContext`Bs22$$ = 
                   "C", $CellContext`Bs23$$ = "D", $CellContext`Bs24$$ = 
                   "C", $CellContext`Bs25$$ = "C", $CellContext`Bs2Name$$ = 
                   "TFTlike", $CellContext`update$$ = 70}, 
@@ -24126,10 +24199,10 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlPlacement ->
                    "C", $CellContext`As13$$ = "D", $CellContext`As14$$ = 
                    "C", $CellContext`As15$$ = "D", $CellContext`As1Name$$ = 
                    "TFT", $CellContext`update$$ = 10}, 
-                 "CCDCC" :> {$CellContext`As11$$ = "C", $CellContext`As12$$ = 
+                 "TFTlike" :> {$CellContext`As11$$ = "C", $CellContext`As12$$ = 
                    "C", $CellContext`As13$$ = "D", $CellContext`As14$$ = 
                    "C", $CellContext`As15$$ = "C", $CellContext`As1Name$$ = 
-                   "CCDCC", $CellContext`update$$ = 10}, 
+                   "TFTlike", $CellContext`update$$ = 10}, 
                  "DDLDC" :> {$CellContext`As11$$ = "D", $CellContext`As12$$ = 
                    "D", $CellContext`As13$$ = "L", $CellContext`As14$$ = 
                    "D", $CellContext`As15$$ = "C", $CellContext`As1Name$$ = 
@@ -24195,10 +24268,10 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlPlacement ->
                    "C", $CellContext`As23$$ = "D", $CellContext`As24$$ = 
                    "C", $CellContext`As25$$ = "D", $CellContext`As2Name$$ = 
                    "TFT", $CellContext`update$$ = 70}, 
-                 "CCDCC" :> {$CellContext`As21$$ = "C", $CellContext`As22$$ = 
+                 "TFTlike" :> {$CellContext`As21$$ = "C", $CellContext`As22$$ = 
                    "C", $CellContext`As23$$ = "D", $CellContext`As24$$ = 
                    "C", $CellContext`As25$$ = "C", $CellContext`As2Name$$ = 
-                   "CCDCC", $CellContext`update$$ = 70}, 
+                   "TFTlike", $CellContext`update$$ = 70}, 
                  "DDLDC" :> {$CellContext`As21$$ = "D", $CellContext`As22$$ = 
                    "D", $CellContext`As23$$ = "L", $CellContext`As24$$ = 
                    "D", $CellContext`As25$$ = "C", $CellContext`As2Name$$ = 
@@ -24292,7 +24365,7 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlPlacement ->
                    "C", $CellContext`Bs13$$ = "D", $CellContext`Bs14$$ = 
                    "C", $CellContext`Bs15$$ = "D", $CellContext`Bs1Name$$ = 
                    "TFT", $CellContext`update$$ = 10}, 
-                 "CCDCC" :> {$CellContext`Bs11$$ = "C", $CellContext`Bs12$$ = 
+                 "TFTlike" :> {$CellContext`Bs11$$ = "C", $CellContext`Bs12$$ = 
                    "C", $CellContext`Bs13$$ = "D", $CellContext`Bs14$$ = 
                    "C", $CellContext`Bs15$$ = "C", $CellContext`Bs1Name$$ = 
                    "TFTlike", $CellContext`update$$ = 10}, 
@@ -24361,7 +24434,7 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlPlacement ->
                    "C", $CellContext`Bs23$$ = "D", $CellContext`Bs24$$ = 
                    "C", $CellContext`Bs25$$ = "D", $CellContext`Bs2Name$$ = 
                    "TFT", $CellContext`update$$ = 70}, 
-                 "CCDCC" :> {$CellContext`Bs21$$ = "C", $CellContext`Bs22$$ = 
+                 "TFTlike" :> {$CellContext`Bs21$$ = "C", $CellContext`Bs22$$ = 
                    "C", $CellContext`Bs23$$ = "D", $CellContext`Bs24$$ = 
                    "C", $CellContext`Bs25$$ = "C", $CellContext`Bs2Name$$ = 
                    "TFTlike", $CellContext`update$$ = 70}, 
@@ -24769,6 +24842,7 @@ $CellContext`p1, $CellContext`p2, $CellContext`av, $CellContext`bv},
          Which[$CellContext`x2 == 0, $CellContext`p2 = 0., $CellContext`x2 == 
            1, $CellContext`p2 = 1., $CellContext`x1 == 
            0, $CellContext`p2 = $CellContext`x2 ($CellContext`l22/((
+               
                1 - $CellContext`x2) $CellContext`l21 + $CellContext`x2 \
 $CellContext`l22)), $CellContext`x1 == 
            1, $CellContext`p2 = $CellContext`x2 ($CellContext`l12/((
@@ -24912,7 +24986,7 @@ $CellContext`FBimatrix, $CellContext`m, $CellContext`pt]; If[
            Return["undetermined"]]; 
          Which[$CellContext`sd < 0, "saddle", $CellContext`sd == 0, 
            "undetermined", $CellContext`st < 0, "sink", $CellContext`st > 0, 
-           "source", True, "centre"]], $CellContext`RestPointJacobian[
+           "source", True, "center"]], $CellContext`RestPointJacobian[
          Pattern[$CellContext`LMatrix, 
           Blank[]], 
          Pattern[$CellContext`FBimatrix, 
@@ -25008,7 +25082,7 @@ $CellContext`maxTime,
          Pattern[$CellContext`type, 
           Blank[]]] := 
        Switch[$CellContext`type, "sink", 1, "source", 2, "saddle", 3, 
-         "centre", 4, 
+         "center", 4, 
          Blank[], 5], $CellContext`RestPointDisks[
          Pattern[$CellContext`pts, 
           Blank[]], 
@@ -25036,12 +25110,12 @@ $CellContext`RestPointColor[
           Pattern[$CellContext`bw, 
            Blank[]], False]] := If[$CellContext`bw, 
          Switch[$CellContext`type, "sink", Black, "source", White, "saddle", 
-          GrayLevel[0.5], "centre", 
+          GrayLevel[0.5], "center", 
           GrayLevel[0.8], 
           Blank[], 
           GrayLevel[0.3]], 
          Switch[$CellContext`type, "sink", 
-          Darker[Green], "source", Red, "saddle", White, "centre", Purple, 
+          Darker[Green], "source", Red, "saddle", White, "center", Purple, 
           Blank[], Gray]], $CellContext`RestPointLegend[
          Pattern[$CellContext`types, 
           Blank[]], 
@@ -25051,7 +25125,7 @@ $CellContext`RestPointColor[
          Riffle[
           Map[$CellContext`RestPointTag[#, $CellContext`bw]& , 
            
-           Select[{"sink", "source", "saddle", "centre", "undetermined"}, 
+           Select[{"sink", "source", "saddle", "center", "undetermined"}, 
             MemberQ[$CellContext`types, #]& ]], 
           "\[ThickSpace]\[ThickSpace]"]], $CellContext`RestPointTag[
          Pattern[$CellContext`type, 
@@ -25074,7 +25148,7 @@ $CellContext`RestPointColor[
           $CellContext`RestPointColor[$CellContext`type, $CellContext`bw], 
           Disk[]}, ImageSize -> 9], $CellContext`RestPointLabel[
          Pattern[$CellContext`type, 
-          Blank[]]] := Switch[$CellContext`type, "centre", "linear centre", 
+          Blank[]]] := Switch[$CellContext`type, "center", "linear center", 
          Blank[], $CellContext`type], $CellContext`EigenvalueDisplay[
          Pattern[$CellContext`z, 
           Blank[]]] := Module[{$CellContext`re, $CellContext`im}, If[
@@ -25357,7 +25431,8 @@ $CellContext`x3}, $CellContext`report = CreateDocument[{
           0}, "Leaver", {1, 1, 1, 1, 1}, "Defector", {0, 0, 0, 0, 0}, 
           "Cooperator", {1, 2, 2, 2, 2}, "Defect&Leave", {0, 0, 1, 1, 0}, 
           "WSLS", {1, 0, 1, 1, 0}, "nWSLS", {0, 0, 1, 1, 1}, "Grim", {0, 0, 1,
-           0, 1}, "TFT", 
+           0, 1}, "TFT", {0, 0, 1, 0, 0}, "TFTlike", {1, 0, 2, 1, 0}, 
+          "leaver1", {1, 0, 2, 0, 0}, "leaver3", 
           Blank[], 
           $CellContext`ToLetters[$CellContext`s]]; $CellContext`ToLetters[
           Pattern[$CellContext`s, 
@@ -26008,7 +26083,7 @@ $CellContext`RestPointDot[
    Deployed->True,
    StripOnInput->False],
   Manipulate`InterpretManipulate[1]]], "Output",
- CellLabel->"Out[1]=",ExpressionUUID->"69126ee1-1dc9-452e-8dc3-ffee8d20fc29"],
+ CellLabel->"Out[1]=",ExpressionUUID->"c8e91722-5c11-422c-be06-5ae0aeec0825"],
 
 Cell[CellGroupData[{
 
@@ -27587,8 +27662,8 @@ allowed to compute the rest points.\>\"", ",", "\"\<\>\""}], "]"}]}], ",",
    RowBox[{"(*", " ", 
     RowBox[{
      RowBox[{
-     "We", " ", "want", " ", "all", " ", "parameters", " ", "to", " ", "be", 
-      " ", "controlled", " ", "by", " ", "Manipulate"}], ",", " ", 
+     "We", " ", "want", " ", "all", " ", "parameters", " ", "to", " ", "be", " ",
+       "controlled", " ", "by", " ", "Manipulate"}], ",", " ", 
      RowBox[{
      "but", " ", "we", " ", "also", " ", "want", " ", "to", " ", "customize", 
       " ", "the", " ", 
@@ -28676,7 +28751,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
                     RowBox[{"As1Name", "=", "\"\<TFT\>\""}], ",", 
                     RowBox[{"update", "=", "10"}]}], "}"}]}], ",", 
                     "\[IndentingNewLine]", 
-                    RowBox[{"\"\<CCDCC\>\"", "\[RuleDelayed]", 
+                    RowBox[{"\"\<TFTlike\>\"", "\[RuleDelayed]", 
                     RowBox[{"{", 
                     RowBox[{
                     RowBox[{"As11", "=", "\"\<C\>\""}], ",", 
@@ -28684,7 +28759,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
                     RowBox[{"As13", "=", "\"\<D\>\""}], ",", 
                     RowBox[{"As14", "=", "\"\<C\>\""}], ",", 
                     RowBox[{"As15", "=", "\"\<C\>\""}], ",", 
-                    RowBox[{"As1Name", "=", "\"\<CCDCC\>\""}], ",", 
+                    RowBox[{"As1Name", "=", "\"\<TFTlike\>\""}], ",", 
                     RowBox[{"update", "=", "10"}]}], "}"}]}], ",", 
                     "\[IndentingNewLine]", 
                     RowBox[{"\"\<DDLDC\>\"", "\[RuleDelayed]", 
@@ -28747,7 +28822,8 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
               RowBox[{"{", 
                RowBox[{
                 RowBox[{"{", 
-                 RowBox[{"As22", ",", "\"\<D\>\"", ",", "\"\<\>\""}], "}"}], ",", 
+                 RowBox[{"As22", ",", "\"\<D\>\"", ",", "\"\<\>\""}], "}"}], 
+                ",", 
                 RowBox[{"{", 
                  RowBox[{"\"\<C\>\"", ",", "\"\<D\>\"", ",", "\"\<L\>\""}], 
                  "}"}], ",", "PopupMenu", ",", 
@@ -28909,7 +28985,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
                     RowBox[{"As2Name", "=", "\"\<TFT\>\""}], ",", 
                     RowBox[{"update", "=", "70"}]}], "}"}]}], ",", 
                     "\[IndentingNewLine]", 
-                    RowBox[{"\"\<CCDCC\>\"", "\[RuleDelayed]", 
+                    RowBox[{"\"\<TFTlike\>\"", "\[RuleDelayed]", 
                     RowBox[{"{", 
                     RowBox[{
                     RowBox[{"As21", "=", "\"\<C\>\""}], ",", 
@@ -28917,7 +28993,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
                     RowBox[{"As23", "=", "\"\<D\>\""}], ",", 
                     RowBox[{"As24", "=", "\"\<C\>\""}], ",", 
                     RowBox[{"As25", "=", "\"\<C\>\""}], ",", 
-                    RowBox[{"As2Name", "=", "\"\<CCDCC\>\""}], ",", 
+                    RowBox[{"As2Name", "=", "\"\<TFTlike\>\""}], ",", 
                     RowBox[{"update", "=", "70"}]}], "}"}]}], ",", 
                     "\[IndentingNewLine]", 
                     RowBox[{"\"\<DDLDC\>\"", "\[RuleDelayed]", 
@@ -29172,7 +29248,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
                     RowBox[{"Bs1Name", "=", "\"\<TFT\>\""}], ",", 
                     RowBox[{"update", "=", "10"}]}], "}"}]}], ",", 
                     "\[IndentingNewLine]", 
-                    RowBox[{"\"\<CCDCC\>\"", "\[RuleDelayed]", 
+                    RowBox[{"\"\<TFTlike\>\"", "\[RuleDelayed]", 
                     RowBox[{"{", 
                     RowBox[{
                     RowBox[{"Bs11", "=", "\"\<C\>\""}], ",", 
@@ -29405,7 +29481,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
                     RowBox[{"Bs2Name", "=", "\"\<TFT\>\""}], ",", 
                     RowBox[{"update", "=", "70"}]}], "}"}]}], ",", 
                     "\[IndentingNewLine]", 
-                    RowBox[{"\"\<CCDCC\>\"", "\[RuleDelayed]", 
+                    RowBox[{"\"\<TFTlike\>\"", "\[RuleDelayed]", 
                     RowBox[{"{", 
                     RowBox[{
                     RowBox[{"Bs21", "=", "\"\<C\>\""}], ",", 
@@ -30059,7 +30135,16 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
          ",", "\"\<Grim\>\"", ",", "\[IndentingNewLine]", 
          RowBox[{"{", 
           RowBox[{"0", ",", "0", ",", "1", ",", "0", ",", "1"}], "}"}], 
-         ",", "\"\<TFT\>\"", ",", "\[IndentingNewLine]", "_", ",", 
+         ",", "\"\<TFT\>\"", ",", "\[IndentingNewLine]", 
+         RowBox[{"{", 
+          RowBox[{"0", ",", "0", ",", "1", ",", "0", ",", "0"}], "}"}], 
+         ",", "\"\<TFTlike\>\"", ",", "\[IndentingNewLine]", 
+         RowBox[{"{", 
+          RowBox[{"1", ",", "0", ",", "2", ",", "1", ",", "0"}], "}"}], 
+         ",", "\"\<leaver1\>\"", ",", "\[IndentingNewLine]", 
+         RowBox[{"{", 
+          RowBox[{"1", ",", "0", ",", "2", ",", "0", ",", "0"}], "}"}], 
+         ",", "\"\<leaver3\>\"", ",", "\[IndentingNewLine]", "_", ",", 
          RowBox[{"ToLetters", "[", "s", "]"}]}], "\[IndentingNewLine]", 
         "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]", 
       RowBox[{
@@ -32670,7 +32755,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
 ScreenStyleEnvironment->"Working",
 CellGrouping->Manual,
 WindowSize->{1233, 851},
-WindowMargins->{{302, Automatic}, {43, Automatic}},
+WindowMargins->{{284, Automatic}, {Automatic, -144}},
 CellContext->Notebook,
 TrackCellChangeTimes->False,
 Magnification:>1.1 Inherited,
@@ -32691,85 +32776,85 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[576, 22, 177, 3, 140, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549390d65ef"],
+Cell[576, 22, 177, 3, 103, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549390d65ef"],
 Cell[756, 27, 431, 13, 39, "Subtitle",ExpressionUUID->"68a5bca1-6871-45b8-ad1c-77a3a78cb7ba"],
-Cell[1190, 42, 1449160, 25968, 925, "Output",ExpressionUUID->"69126ee1-1dc9-452e-8dc3-ffee8d20fc29"],
+Cell[1190, 42, 1453962, 26043, 925, "Output",ExpressionUUID->"c8e91722-5c11-422c-be06-5ae0aeec0825"],
 Cell[CellGroupData[{
-Cell[1450375, 26014, 145, 3, 79, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
+Cell[1455177, 26089, 145, 3, 79, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1450523, 26019, 438, 6, 70, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
-Cell[1450964, 26027, 695, 9, 70, "Text",ExpressionUUID->"1a4b8d55-7c18-4c9a-9a5d-2e3a7f61a001"],
+Cell[1455325, 26094, 438, 6, 70, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
+Cell[1455766, 26102, 695, 9, 70, "Text",ExpressionUUID->"1a4b8d55-7c18-4c9a-9a5d-2e3a7f61a001"],
 Cell[CellGroupData[{
-Cell[1451684, 26040, 87, 0, 70, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
+Cell[1456486, 26115, 87, 0, 70, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
 Cell[CellGroupData[{
-Cell[1451796, 26044, 87, 0, 70, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
-Cell[1451886, 26046, 1059, 18, 70, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
+Cell[1456598, 26119, 87, 0, 70, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
+Cell[1456688, 26121, 1059, 18, 70, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1452982, 26069, 90, 0, 70, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
-Cell[1453075, 26071, 176, 2, 70, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
-Cell[1453254, 26075, 284, 3, 70, "Item",ExpressionUUID->"81895113-ea99-4768-8374-34d1c25411bc"],
-Cell[1453541, 26080, 251, 3, 70, "Item",ExpressionUUID->"6816733d-a258-49e1-93e7-234ff6e5e299"],
-Cell[1453795, 26085, 214, 2, 70, "Subitem",ExpressionUUID->"52dc2971-0320-4945-ad8e-b742af5bf4ca"],
-Cell[1454012, 26089, 214, 2, 70, "Subitem",ExpressionUUID->"98ed99d6-b4eb-4137-970f-51c7a4573dfe"],
-Cell[1454229, 26093, 222, 2, 70, "Subitem",ExpressionUUID->"8dcab4ef-85dc-4142-9d80-a1cf4986801b"],
-Cell[1454454, 26097, 278, 3, 70, "Item",ExpressionUUID->"8f300e86-53bd-4204-870e-3fc7abb719d3"],
-Cell[1454735, 26102, 274, 3, 70, "Item",ExpressionUUID->"ca3b8f61-65f3-4408-aaa0-0b2432880027"],
-Cell[1455012, 26107, 230, 2, 70, "Item",ExpressionUUID->"9ed479f3-6a45-4384-a848-ba0ebda4f1af"],
-Cell[1455245, 26111, 627, 9, 70, "Text",ExpressionUUID->"6d9bfa5c-7bc9-47bc-ae71-759b6ce57154"],
-Cell[1455875, 26122, 289, 4, 70, "Text",ExpressionUUID->"3b8f4d21-5c10-4ee1-9d4a-0fbc5a3c1102"]
+Cell[1457784, 26144, 90, 0, 70, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
+Cell[1457877, 26146, 176, 2, 70, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
+Cell[1458056, 26150, 284, 3, 70, "Item",ExpressionUUID->"81895113-ea99-4768-8374-34d1c25411bc"],
+Cell[1458343, 26155, 251, 3, 70, "Item",ExpressionUUID->"6816733d-a258-49e1-93e7-234ff6e5e299"],
+Cell[1458597, 26160, 214, 2, 70, "Subitem",ExpressionUUID->"52dc2971-0320-4945-ad8e-b742af5bf4ca"],
+Cell[1458814, 26164, 214, 2, 70, "Subitem",ExpressionUUID->"98ed99d6-b4eb-4137-970f-51c7a4573dfe"],
+Cell[1459031, 26168, 222, 2, 70, "Subitem",ExpressionUUID->"8dcab4ef-85dc-4142-9d80-a1cf4986801b"],
+Cell[1459256, 26172, 278, 3, 70, "Item",ExpressionUUID->"8f300e86-53bd-4204-870e-3fc7abb719d3"],
+Cell[1459537, 26177, 274, 3, 70, "Item",ExpressionUUID->"ca3b8f61-65f3-4408-aaa0-0b2432880027"],
+Cell[1459814, 26182, 230, 2, 70, "Item",ExpressionUUID->"9ed479f3-6a45-4384-a848-ba0ebda4f1af"],
+Cell[1460047, 26186, 627, 9, 70, "Text",ExpressionUUID->"6d9bfa5c-7bc9-47bc-ae71-759b6ce57154"],
+Cell[1460677, 26197, 289, 4, 70, "Text",ExpressionUUID->"3b8f4d21-5c10-4ee1-9d4a-0fbc5a3c1102"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1456201, 26131, 174, 3, 70, "Subsubsection",ExpressionUUID->"c31057d9-c246-4446-9322-91110e3310ce",
+Cell[1461003, 26206, 174, 3, 70, "Subsubsection",ExpressionUUID->"c31057d9-c246-4446-9322-91110e3310ce",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1456378, 26136, 760, 10, 70, "Text",ExpressionUUID->"4b87dbdd-2993-4142-a774-6fd50bd07639"]
+Cell[1461180, 26211, 760, 10, 70, "Text",ExpressionUUID->"4b87dbdd-2993-4142-a774-6fd50bd07639"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1457175, 26151, 161, 3, 70, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
+Cell[1461977, 26226, 161, 3, 70, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1457339, 26156, 667, 17, 70, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
-Cell[1458009, 26175, 617, 20, 70, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"],
-Cell[1458629, 26197, 304, 8, 70, "Text",ExpressionUUID->"c0e3f5a2-9d7b-4a8e-8b12-6f9a0c4b7e21"]
+Cell[1462141, 26231, 667, 17, 70, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
+Cell[1462811, 26250, 617, 20, 70, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"],
+Cell[1463431, 26272, 304, 8, 70, "Text",ExpressionUUID->"c0e3f5a2-9d7b-4a8e-8b12-6f9a0c4b7e21"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1458970, 26210, 142, 3, 70, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
+Cell[1463772, 26285, 142, 3, 70, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1459115, 26215, 589, 8, 70, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
+Cell[1463917, 26290, 589, 8, 70, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1459741, 26228, 156, 3, 70, "Subsubsection",ExpressionUUID->"0448ceb8-bcc3-46b5-9eab-a0988a41dad9",
+Cell[1464543, 26303, 156, 3, 70, "Subsubsection",ExpressionUUID->"0448ceb8-bcc3-46b5-9eab-a0988a41dad9",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1459900, 26233, 786, 0, 70, "Text",ExpressionUUID->"0405ac78-f880-40b0-b5d0-fb4ae91ec966"]
+Cell[1464702, 26308, 786, 0, 70, "Text",ExpressionUUID->"0405ac78-f880-40b0-b5d0-fb4ae91ec966"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1460723, 26238, 152, 3, 70, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
+Cell[1465525, 26313, 152, 3, 70, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1460878, 26243, 270, 4, 70, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
+Cell[1465680, 26318, 270, 4, 70, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1461185, 26252, 154, 3, 70, "Subsubsection",ExpressionUUID->"5d2a1b77-4c6e-4a1f-93f6-8b1c2d0f4e77",
+Cell[1465987, 26327, 154, 3, 70, "Subsubsection",ExpressionUUID->"5d2a1b77-4c6e-4a1f-93f6-8b1c2d0f4e77",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1461342, 26257, 450, 6, 70, "Text",ExpressionUUID->"2f0c9a31-4d8b-4f2e-9a03-5b1d7c8e4a66"]
+Cell[1466144, 26332, 450, 6, 70, "Text",ExpressionUUID->"2f0c9a31-4d8b-4f2e-9a03-5b1d7c8e4a66"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1461841, 26269, 141, 3, 70, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
+Cell[1466643, 26344, 141, 3, 70, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1461985, 26274, 461, 7, 70, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"],
-Cell[1462449, 26283, 1092, 15, 70, "Text",ExpressionUUID->"8a1f2b64-3d07-4e51-9c1a-7b2e0f5d3c48"],
-Cell[1463544, 26300, 272, 4, 70, "Text",ExpressionUUID->"4c7d9e10-2b83-4f6a-9d51-8e0a1c7b2f39"],
-Cell[1463819, 26306, 274, 4, 70, "Text",ExpressionUUID->"9e5b3a27-6c14-4d82-a7f3-1b6c5d0e9a48"],
-Cell[1464096, 26312, 1597, 36, 70, "Text",ExpressionUUID->"7d1c6e35-4a92-4b18-8c63-5f2a9b0d1e47"],
-Cell[1465696, 26350, 562, 8, 70, "Text",ExpressionUUID->"5b8e2f41-3c7d-4a96-b25e-0c9d6a3f8b12"]
+Cell[1466787, 26349, 461, 7, 70, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"],
+Cell[1467251, 26358, 1092, 15, 70, "Text",ExpressionUUID->"8a1f2b64-3d07-4e51-9c1a-7b2e0f5d3c48"],
+Cell[1468346, 26375, 272, 4, 70, "Text",ExpressionUUID->"4c7d9e10-2b83-4f6a-9d51-8e0a1c7b2f39"],
+Cell[1468621, 26381, 274, 4, 70, "Text",ExpressionUUID->"9e5b3a27-6c14-4d82-a7f3-1b6c5d0e9a48"],
+Cell[1468898, 26387, 1597, 36, 70, "Text",ExpressionUUID->"7d1c6e35-4a92-4b18-8c63-5f2a9b0d1e47"],
+Cell[1470498, 26425, 562, 8, 70, "Text",ExpressionUUID->"5b8e2f41-3c7d-4a96-b25e-0c9d6a3f8b12"]
 }, Open  ]]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1466307, 26364, 88, 0, 45, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[1466398, 26366, 1990, 41, 70, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[1471109, 26439, 88, 0, 45, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
+Cell[1471200, 26441, 1990, 41, 70, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1468425, 26412, 85, 0, 45, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[1468513, 26414, 280920, 6251, 22486, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[1473227, 26487, 85, 0, 45, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[1473315, 26489, 281423, 6261, 22553, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 }, Open  ]]
 }
